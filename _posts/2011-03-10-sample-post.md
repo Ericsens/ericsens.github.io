@@ -5,7 +5,7 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2014-12-24
 tags: [sample post]
 image:
-  feature: abstract-3.jpg
+  feature: abstract-2.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
@@ -99,3 +99,5 @@ Make any link standout more when applying the `.btn` class.
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+
+
